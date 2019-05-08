@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-05-08T14:41:05.018-04:00
+  lastUpdatedAtString: 2019-05-08T14:45:55.848-04:00
   initializedAtString: 2019-05-08T14:39:28.306-04:00
   entries:
   - path: Stratagem Sports - Football\Library\gfu\cache\branches.yaml
@@ -37,6 +37,13 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+  - path: Stratagem Sports - Football\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
+      Sports - Football\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    status: 3
+    staged: 0
   - path: Stratagem Sports - Football\Library\gfu\cache\gittrackingstatus.yaml
     fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
       Sports - Football\Library\gfu\cache\gittrackingstatus.yaml
@@ -44,10 +51,10 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Stratagem Sports - Football\Library\shadercompiler-UnityShaderCompiler.exe0.log
+  - path: Stratagem Sports - Football\Library\gfu\cache\repoinfo.yaml
     fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
-      Sports - Football\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      Sports - Football\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
     status: 3
     staged: 0

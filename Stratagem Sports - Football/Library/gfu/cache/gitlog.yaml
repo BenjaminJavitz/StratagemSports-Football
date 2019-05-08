@@ -13,9 +13,70 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-05-08T14:41:23.571-04:00
+  lastUpdatedAtString: 2019-05-08T14:45:52.156-04:00
   initializedAtString: 2019-05-08T14:41:04.561-04:00
   log:
+  - commitID: 12ddff36ef60707e5307145ffc2a5c885e8a422e
+    mergeA: 
+    mergeB: 
+    authorName: BenjaminJavitz
+    authorEmail: javitzbenjamin@gmail.com
+    commitEmail: javitzbenjamin@gmail.com
+    commitName: BenjaminJavitz
+    summary: SS:F Unity Commit Files
+    description: 
+    timeString: 2019-05-08T14:45:26.000-04:00
+    commitTimeString: 2019-05-08T14:45:26.000-04:00
+    changes:
+    - path: Stratagem Sports - Football\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
+        Sports - Football\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Stratagem Sports - Football\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
+        Sports - Football\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Stratagem Sports - Football\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
+        Sports - Football\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Stratagem Sports - Football\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
+        Sports - Football\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Stratagem Sports - Football\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
+        Sports - Football\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Stratagem Sports - Football\Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
+        Sports - Football\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Stratagem Sports - Football\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
+        Sports - Football\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: 2383149fabd8a1bb4801567e9043c688e68b9d0a
     mergeA: 
     mergeB: 
