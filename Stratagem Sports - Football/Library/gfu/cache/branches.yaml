@@ -13,15 +13,29 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2019-05-08T14:20:24.765-04:00
-  initializedAtString: 2019-05-08T14:20:23.710-04:00
+  lastUpdatedAtString: 2019-05-08T14:41:23.165-04:00
+  initializedAtString: 2019-05-08T14:41:03.640-04:00
   localBranches:
+  - name: Art
+    tracking: origin/Art
+  - name: Design
+    tracking: origin/Design
   - name: master
-    tracking: 
-  remoteBranches: []
+    tracking: origin/master
+  - name: Programming
+    tracking: origin/Programming
+  remoteBranches:
+  - name: origin/Art
+    tracking: '[None]'
+  - name: origin/Design
+    tracking: '[None]'
+  - name: origin/HEAD
+    tracking: '[None]'
+  - name: origin/Programming
+    tracking: '[None]'
   remotes:
   - name: origin
-    url: https://github.com/BenjaminJavitz/Portfolio
+    url: https://github.com/BenjaminJavitz/StratagemSports-Football.git
     login: 
     user: 
     host: 
@@ -29,20 +43,65 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
+    - Art
+    - Design
     - master
+    - Programming
     values:
+    - name: Art
+      remote:
+        name: origin
+        url: https://github.com/BenjaminJavitz/StratagemSports-Football.git
+      trackingBranch: Art
+    - name: Design
+      remote:
+        name: origin
+        url: https://github.com/BenjaminJavitz/StratagemSports-Football.git
+      trackingBranch: Design
     - name: master
       remote:
-        name: 
-        url: 
-      trackingBranch: 
+        name: origin
+        url: https://github.com/BenjaminJavitz/StratagemSports-Football.git
+      trackingBranch: master
+    - name: Programming
+      remote:
+        name: origin
+        url: https://github.com/BenjaminJavitz/StratagemSports-Football.git
+      trackingBranch: Programming
   remoteConfigBranches:
-    keys: []
-    subKeys: []
-    subKeyValues: []
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - Art
+      - Design
+      - HEAD
+      - Programming
+    subKeyValues:
+    - Values:
+      - name: Art
+        remote:
+          name: origin
+          url: https://github.com/BenjaminJavitz/StratagemSports-Football.git
+        trackingBranch: 
+      - name: Design
+        remote:
+          name: origin
+          url: https://github.com/BenjaminJavitz/StratagemSports-Football.git
+        trackingBranch: 
+      - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/BenjaminJavitz/StratagemSports-Football.git
+        trackingBranch: 
+      - name: Programming
+        remote:
+          name: origin
+          url: https://github.com/BenjaminJavitz/StratagemSports-Football.git
+        trackingBranch: 
   configRemotes:
     keys:
     - origin
     values:
     - name: origin
-      url: https://github.com/BenjaminJavitz/Portfolio
+      url: https://github.com/BenjaminJavitz/StratagemSports-Football.git
