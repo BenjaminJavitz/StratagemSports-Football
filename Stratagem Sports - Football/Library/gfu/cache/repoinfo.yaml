@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2019-05-08T14:59:56.343-04:00
-  initializedAtString: 2019-05-08T14:39:28.204-04:00
+  lastUpdatedAtString: 2019-05-08T15:06:13.568-04:00
+  initializedAtString: 2019-05-08T15:06:13.568-04:00
   currentGitRemote:
     name: origin
     url: https://github.com/BenjaminJavitz/StratagemSports-Football.git

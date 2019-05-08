@@ -13,34 +13,139 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-05-08T14:59:56.496-04:00
-  initializedAtString: 2019-05-08T14:39:28.306-04:00
+  lastUpdatedAtString: 2019-05-08T15:06:14.950-04:00
+  initializedAtString: 2019-05-08T15:06:14.022-04:00
   entries:
-  - path: Stratagem Sports - Football\Library\gfu\cache\gitlocks.yaml
+  - path: Stratagem Sports - Football\Library\APIUpdater\project-dependencies.graph
     fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
-      Sports - Football\Library\gfu\cache\gitlocks.yaml
-    projectPath: Library\gfu\cache\gitlocks.yaml
+      Sports - Football\Library\APIUpdater\project-dependencies.graph
+    projectPath: Library\APIUpdater\project-dependencies.graph
     originalPath: 
-    status: 5
+    status: 3
+    staged: 0
+  - path: Stratagem Sports - Football\Library\assetDatabase3
+    fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
+      Sports - Football\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    status: 3
     staged: 0
   - path: Stratagem Sports - Football\Library\gfu\cache\gitstatusentries.yaml
     fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
       Sports - Football\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
-    status: 5
+    status: 3
     staged: 0
   - path: Stratagem Sports - Football\Library\gfu\cache\gittrackingstatus.yaml
     fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
       Sports - Football\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
-    status: 5
+    status: 3
     staged: 0
   - path: Stratagem Sports - Football\Library\gfu\cache\repoinfo.yaml
     fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
       Sports - Football\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Stratagem Sports - Football\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
+      Sports - Football\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Stratagem Sports - Football\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
+      Sports - Football\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Stratagem Sports - Football\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
+      Sports - Football\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Stratagem Sports - Football\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+    fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
+      Sports - Football\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Stratagem Sports - Football\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
+      Sports - Football\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Stratagem Sports - Football\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
+      Sports - Football\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Stratagem Sports - Football\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
+      Sports - Football\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Stratagem Sports - Football\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
+      Sports - Football\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Stratagem Sports - Football\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
+      Sports - Football\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Stratagem Sports - Football\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
+      Sports - Football\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Stratagem Sports - Football\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
+      Sports - Football\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Stratagem Sports - Football\Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
+      Sports - Football\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Stratagem Sports - Football\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
+      Sports - Football\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Stratagem Sports - Football\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
+      Sports - Football\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
     status: 3
     staged: 0
