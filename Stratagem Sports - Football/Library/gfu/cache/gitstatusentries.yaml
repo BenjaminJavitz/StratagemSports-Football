@@ -13,20 +13,55 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-05-08T14:56:29.585-04:00
+  lastUpdatedAtString: 2019-05-08T14:58:29.709-04:00
   initializedAtString: 2019-05-08T14:39:28.306-04:00
   entries:
+  - path: Stratagem Sports - Football\Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
+      Sports - Football\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Stratagem Sports - Football\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
+      Sports - Football\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Stratagem Sports - Football\Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
+      Sports - Football\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    status: 5
+    staged: 0
   - path: Stratagem Sports - Football\Library\gfu\cache\gitstatusentries.yaml
     fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
       Sports - Football\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
-    status: 3
+    status: 5
     staged: 0
   - path: Stratagem Sports - Football\Library\gfu\cache\gittrackingstatus.yaml
     fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
       Sports - Football\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
-    status: 3
+    status: 5
+    staged: 0
+  - path: Stratagem Sports - Football\Library\gfu\cache\gituser.yaml
+    fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
+      Sports - Football\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Stratagem Sports - Football\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
+      Sports - Football\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 5
     staged: 0
