@@ -13,27 +13,78 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-05-08T15:16:16.301-04:00
-  initializedAtString: 2019-05-08T15:06:14.022-04:00
+  lastUpdatedAtString: 2019-05-10T12:57:34.765-04:00
+  initializedAtString: 2019-05-10T12:56:44.822-04:00
   entries:
+  - path: Stratagem Sports - Football\Assets\Scenes\SampleScene.unity
+    fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
+      Sports - Football\Assets\Scenes\SampleScene.unity
+    projectPath: Assets\Scenes\SampleScene.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Stratagem Sports - Football\Assets\Sprites.meta
+    fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
+      Sports - Football\Assets\Sprites.meta
+    projectPath: Assets\Sprites.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Stratagem Sports - Football\Assets\Sprites\Stratagem Sports_ Football Test
+      Field-1.png.png
+    fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
+      Sports - Football\Assets\Sprites\Stratagem Sports_ Football Test Field-1.png.png
+    projectPath: Assets\Sprites\Stratagem Sports_ Football Test Field-1.png.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Stratagem Sports - Football\Assets\Sprites\Stratagem Sports_ Football Test
+      Field-1.png.png.meta
+    fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
+      Sports - Football\Assets\Sprites\Stratagem Sports_ Football Test Field-1.png.png.meta
+    projectPath: Assets\Sprites\Stratagem Sports_ Football Test Field-1.png.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Stratagem Sports - Football\Assets\Sprites\StratagemSports-FootballLogo.png
+    fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
+      Sports - Football\Assets\Sprites\StratagemSports-FootballLogo.png
+    projectPath: Assets\Sprites\StratagemSports-FootballLogo.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Stratagem Sports - Football\Assets\Sprites\StratagemSports-FootballLogo.png.meta
+    fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
+      Sports - Football\Assets\Sprites\StratagemSports-FootballLogo.png.meta
+    projectPath: Assets\Sprites\StratagemSports-FootballLogo.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
   - path: Stratagem Sports - Football\Assets\StratagemSports-FootballLogo.png
     fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
       Sports - Football\Assets\StratagemSports-FootballLogo.png
     projectPath: Assets\StratagemSports-FootballLogo.png
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Stratagem Sports - Football\Assets\StratagemSports-FootballLogo.png.meta
     fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
       Sports - Football\Assets\StratagemSports-FootballLogo.png.meta
     projectPath: Assets\StratagemSports-FootballLogo.png.meta
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Stratagem Sports - Football\Library\assetDatabase3
     fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
       Sports - Football\Library\assetDatabase3
     projectPath: Library\assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Stratagem Sports - Football\Library\CurrentLayout.dwlt
+    fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
+      Sports - Football\Library\CurrentLayout.dwlt
+    projectPath: Library\CurrentLayout.dwlt
     originalPath: 
     status: 3
     staged: 0
@@ -55,6 +106,34 @@ MonoBehaviour:
     fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
       Sports - Football\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Stratagem Sports - Football\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
+      Sports - Football\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Stratagem Sports - Football\Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
+      Sports - Football\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Stratagem Sports - Football\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
+      Sports - Football\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Stratagem Sports - Football\Library\StateCache\SceneView\156247-mainStage.json
+    fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
+      Sports - Football\Library\StateCache\SceneView\156247-mainStage.json
+    projectPath: Library\StateCache\SceneView\156247-mainStage.json
     originalPath: 
     status: 3
     staged: 0

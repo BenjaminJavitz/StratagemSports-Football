@@ -47,7 +47,7 @@ MonoBehaviour:
   m_MinSize: {x: 508, y: 494}
   m_MaxSize: {x: 14004, y: 14044}
   vertical: 0
-  controlID: 75
+  controlID: 96
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -75,7 +75,7 @@ MonoBehaviour:
   - {fileID: 13}
   - {fileID: 12}
   m_Selected: 1
-  m_LastSelected: 2
+  m_LastSelected: 0
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -221,7 +221,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 494}
   m_MaxSize: {x: 10002, y: 14044}
   vertical: 1
-  controlID: 76
+  controlID: 34
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -246,7 +246,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 222}
   m_MaxSize: {x: 8006, y: 4022}
   vertical: 0
-  controlID: 16
+  controlID: 35
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -266,16 +266,16 @@ MonoBehaviour:
     y: 0
     width: 1062
     height: 615
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_ActualView: {fileID: 20}
+  m_MinSize: {x: 204, y: 222}
+  m_MaxSize: {x: 4004, y: 4022}
+  m_ActualView: {fileID: 21}
   m_Panes:
   - {fileID: 20}
   - {fileID: 21}
   - {fileID: 16}
   - {fileID: 14}
-  m_Selected: 0
-  m_LastSelected: 2
+  m_Selected: 1
+  m_LastSelected: 0
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -326,8 +326,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1278
-    y: 73
+    x: -30722
+    y: -31970
     width: 640
     height: 928
   m_ViewDataDictionary: {fileID: 0}
@@ -337,10 +337,10 @@ MonoBehaviour:
   currentBranchAndRemoteHasUpdate: 0
   currentTrackingStatusHasUpdate: 0
   currentStatusEntriesHasUpdate: 0
-  repositoryProgressHasUpdate: 1
+  repositoryProgressHasUpdate: 0
   appManagerProgressHasUpdate: 0
-  changeTab: 5
-  activeTab: 5
+  changeTab: 3
+  activeTab: 3
   initProjectView:
     hasCompletedInitialCheck: 0
     isUserDataPresent: 0
@@ -428,25 +428,267 @@ MonoBehaviour:
     currentLocksHasUpdate: 0
     commitBody: 
     commitMessage: 
-    currentBranch: '[unknown]'
+    currentBranch: '[Programming]'
     treeScroll: {x: 0, y: 0}
     treeChanges:
       assets:
         keys: []
         values: []
       folders:
-        keys: []
-        values: []
+        keys:
+        - Stratagem Sports - Football
+        - Stratagem Sports - Football\Library
+        - Stratagem Sports - Football\Library\gfu
+        - Stratagem Sports - Football\Library\gfu\cache
+        values:
+        - path: Stratagem Sports - Football
+          label: Stratagem Sports - Football
+          level: 0
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Stratagem Sports - Football\Library
+          label: Library
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Stratagem Sports - Football\Library\gfu
+          label: gfu
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Stratagem Sports - Football\Library\gfu\cache
+          label: cache
+          level: 3
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
       checkedFileNodes:
         keys: []
         values: []
       title: 
-      pathSeparator: /
+      pathSeparator: \
       displayRootNode: 0
       isSelectable: 1
       isCheckable: 1
       isUsingGlobalSelection: 1
-      nodes: []
+      nodes:
+      - path: 
+        label: 
+        level: -1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Stratagem Sports - Football
+        label: Stratagem Sports - Football
+        level: 0
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Stratagem Sports - Football\Library
+        label: Library
+        level: 1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Stratagem Sports - Football\Library\gfu
+        label: gfu
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Stratagem Sports - Football\Library\gfu\cache
+        label: cache
+        level: 3
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Stratagem Sports - Football\Library\gfu\cache\gitlocks.yaml
+        label: gitlocks.yaml
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Stratagem Sports - Football\Library\gfu\cache\gitlocks.yaml
+          fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
+            Sports - Football\Library\gfu\cache\gitlocks.yaml
+          projectPath: Library\gfu\cache\gitlocks.yaml
+          originalPath: 
+          status: 3
+          staged: 0
+      - path: Stratagem Sports - Football\Library\gfu\cache\gitstatusentries.yaml
+        label: gitstatusentries.yaml
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Stratagem Sports - Football\Library\gfu\cache\gitstatusentries.yaml
+          fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
+            Sports - Football\Library\gfu\cache\gitstatusentries.yaml
+          projectPath: Library\gfu\cache\gitstatusentries.yaml
+          originalPath: 
+          status: 3
+          staged: 0
+      - path: Stratagem Sports - Football\Library\gfu\cache\gittrackingstatus.yaml
+        label: gittrackingstatus.yaml
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Stratagem Sports - Football\Library\gfu\cache\gittrackingstatus.yaml
+          fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
+            Sports - Football\Library\gfu\cache\gittrackingstatus.yaml
+          projectPath: Library\gfu\cache\gittrackingstatus.yaml
+          originalPath: 
+          status: 3
+          staged: 0
+      - path: Stratagem Sports - Football\Library\gfu\cache\repoinfo.yaml
+        label: repoinfo.yaml
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Stratagem Sports - Football\Library\gfu\cache\repoinfo.yaml
+          fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
+            Sports - Football\Library\gfu\cache\repoinfo.yaml
+          projectPath: Library\gfu\cache\repoinfo.yaml
+          originalPath: 
+          status: 3
+          staged: 0
       selectedNode:
         path: 
         label: 
@@ -466,17 +708,45 @@ MonoBehaviour:
           originalPath: 
           status: 0
           staged: 0
-    gitStatusEntries: []
-    changedFilesText: No changed files
+    gitStatusEntries:
+    - path: Stratagem Sports - Football\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
+        Sports - Football\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Stratagem Sports - Football\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
+        Sports - Football\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Stratagem Sports - Football\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
+        Sports - Football\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Stratagem Sports - Football\Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
+        Sports - Football\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    changedFilesText: 4 changed files
     lastCurrentBranchChangedEvent:
-      updatedTimeString: 
-      cacheType: 0
+      updatedTimeString: 2019-05-08T16:27:11.978-04:00
+      cacheType: 1
     lastStatusEntriesChangedEvent:
-      updatedTimeString: 
-      cacheType: 0
+      updatedTimeString: 2019-05-08T16:27:15.550-04:00
+      cacheType: 6
     lastLocksChangedEvent:
-      updatedTimeString: 
-      cacheType: 0
+      updatedTimeString: 2019-05-08T16:27:14.571-04:00
+      cacheType: 7
   historyView:
     currentLogHasUpdate: 0
     currentTrackingStatusHasUpdate: 0
@@ -581,20 +851,20 @@ MonoBehaviour:
     detailsScroll: {x: 0, y: 0}
   settingsView:
     gitPathView:
-      gitPath: C:\Users\Benjamin\AppData\Local\GitHubUnity\git\cmd\git.exe
-      gitLfsPath: C:\Users\Benjamin\AppData\Local\GitHubUnity\git-lfs\git-lfs.exe
+      gitPath: C:\Program Files\Git\cmd\git.exe
+      gitLfsPath: C:\Program Files\Git LFS\git-lfs.exe
       errorMessage: 
       resetToBundled: 0
       resetToSystem: 0
       changingManually: 0
     hasRemote: 1
     lastCurrentRemoteChangedEvent:
-      updatedTimeString: 2019-05-08T14:20:23.528-04:00
+      updatedTimeString: 2019-05-08T15:10:21.727-04:00
       cacheType: 1
     metricsEnabled: 1
-    newRepositoryRemoteUrl: https://github.com/BenjaminJavitz/Portfolio
+    newRepositoryRemoteUrl: https://github.com/BenjaminJavitz/StratagemSports-Football.git
     repositoryRemoteName: origin
-    repositoryRemoteUrl: https://github.com/BenjaminJavitz/Portfolio
+    repositoryRemoteUrl: https://github.com/BenjaminJavitz/StratagemSports-Football.git
     scroll: {x: 0, y: 0}
     userSettingsView:
       gitName: BenjaminJavitz
@@ -603,7 +873,7 @@ MonoBehaviour:
       newGitEmail: javitzbenjamin@gmail.com
       needsSaving: 0
       lastCheckUserChangedEvent:
-        updatedTimeString: 2019-05-08T14:20:23.649-04:00
+        updatedTimeString: 2019-05-08T15:10:05.620-04:00
         cacheType: 8
     webTimeout: 3000
     gitTimeout: 5000
@@ -630,19 +900,33 @@ MonoBehaviour:
             email: 
           lockedAtString: 
         gitFileStatus: 0
-        lockedAt: 
+        lockedAt: 1 Jan 0001, 00:00
     lastCurrentRemoteChangedEvent:
-      updatedTimeString: 
-      cacheType: 0
+      updatedTimeString: 2019-05-08T15:08:27.681-04:00
+      cacheType: 1
     lastLocksChangedEvent:
-      updatedTimeString: 
-      cacheType: 0
+      updatedTimeString: 2019-05-08T15:08:29.529-04:00
+      cacheType: 7
     lastStatusEntriesChangedEvent:
-      updatedTimeString: 
-      cacheType: 0
+      updatedTimeString: 2019-05-08T15:08:27.834-04:00
+      cacheType: 6
     lockedFiles: []
-    gitStatusEntries: []
-    currentUsername: 
+    gitStatusEntries:
+    - path: Stratagem Sports - Football\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
+        Sports - Football\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Stratagem Sports - Football\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
+        Sports - Football\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    currentUsername: BenjaminJavitz
     unlockFileMenuContent:
       m_Text: Release Lock
       m_Image: {fileID: 0}
@@ -653,28 +937,28 @@ MonoBehaviour:
       m_Tooltip: 
   hasRemote: 1
   currentRemoteName: origin
-  currentBranch: master
-  currentRemoteUrl: https://github.com/BenjaminJavitz/Portfolio
+  currentBranch: Programming
+  currentRemoteUrl: https://github.com/BenjaminJavitz/StratagemSports-Football.git
   statusAhead: 0
   statusBehind: 0
   hasItemsToCommit: 1
-  isTrackingRemoteBranch: 0
+  isTrackingRemoteBranch: 1
   currentBranchContent:
-    m_Text: master
+    m_Text: Programming
     m_Image: {fileID: 0}
     m_Tooltip: Active branch
   currentRemoteUrlContent:
-    m_Text: https://github.com/BenjaminJavitz/Portfolio
+    m_Text: https://github.com/BenjaminJavitz/StratagemSports-Football.git
     m_Image: {fileID: 0}
     m_Tooltip: Url of the origin remote
   lastCurrentBranchAndRemoteChangedEvent:
-    updatedTimeString: 2019-05-08T14:20:23.528-04:00
+    updatedTimeString: 2019-05-08T16:27:11.978-04:00
     cacheType: 1
   lastTrackingStatusChangedEvent:
-    updatedTimeString: 2019-05-08T14:29:32.198-04:00
+    updatedTimeString: 2019-05-08T16:27:15.695-04:00
     cacheType: 5
   lastStatusEntriesChangedEvent:
-    updatedTimeString: 2019-05-08T14:29:24.748-04:00
+    updatedTimeString: 2019-05-08T16:27:15.550-04:00
     cacheType: 6
   pullButtonContent:
     m_Text: Pull
@@ -840,14 +1124,15 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\Benjamin\Desktop\Stratagem Sports - Football
+  m_LastProjectPath: C:\Users\Benjamin\Documents\GitHub\StratagemSports-Football\Stratagem
+    Sports - Football
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: e6290000
-    m_LastClickedID: 10726
-    m_ExpandedIDs: 00000000e6290000
+    m_SelectedIDs: 522a0000
+    m_LastClickedID: 10834
+    m_ExpandedIDs: 00000000522a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -875,7 +1160,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000e6290000
+    m_ExpandedIDs: 00000000522a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -951,9 +1236,9 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1378
+    x: 1278
     y: 73
-    width: 540
+    width: 640
     height: 928
   m_ViewDataDictionary: {fileID: 0}
   m_OpenAddComponentMenu: 0
@@ -988,16 +1273,16 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 20
-    width: 214
-    height: 593
+    y: 73
+    width: 216
+    height: 596
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 7afbffff
+      m_ExpandedIDs: f6faffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1057,9 +1342,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0, y: 0, z: 0}
+    m_Target: {x: -2.7232463, y: -0.4220906, z: -24.358702}
     speed: 2
-    m_Value: {x: 0, y: 0, z: 0}
+    m_Value: {x: -2.6314507, y: -0.56693685, z: -24.29277}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1092,9 +1377,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 10
+    m_Target: 15.321529
     speed: 2
-    m_Value: 10
+    m_Value: 14.661751
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1140,26 +1425,26 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 406
-    y: 92
-    width: 956
-    height: 648
+    x: 216
+    y: 73
+    width: 1060
+    height: 596
   m_ViewDataDictionary: {fileID: 0}
   m_VSyncEnabled: 0
   m_MaximizeOnPlay: 0
   m_Gizmos: 0
   m_Stats: 0
-  m_SelectedSizes: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_SelectedSizes: 05000000000000000000000000000000000000000000000000000000000000000000000000000000
   m_TargetDisplay: 0
   m_ZoomArea:
     m_HRangeLocked: 0
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -478
-    m_HBaseRangeMax: 478
-    m_VBaseRangeMin: -315.5
-    m_VBaseRangeMax: 315.5
+    m_HBaseRangeMin: -514.5
+    m_HBaseRangeMax: 514.5
+    m_VBaseRangeMin: -289.5
+    m_VBaseRangeMax: 289.5
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -1168,7 +1453,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 0
+    m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -1177,25 +1462,25 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 17
-      width: 956
-      height: 631
-    m_Scale: {x: 1.0542341, y: 1.0542341}
-    m_Translation: {x: 470.78818, y: 308.53705}
+      width: 1060
+      height: 579
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 530, y: 289.5}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -446.5689
-      y: -292.66464
-      width: 906.8194
-      height: 598.53876
+      x: -530
+      y: -289.5
+      width: 1060
+      height: 579
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
-  m_CurrentColorSpace: 1
-  m_LastWindowPixelSize: {x: 956, y: 648}
+  m_CurrentColorSpace: 0
+  m_LastWindowPixelSize: {x: 1060, y: 596}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
