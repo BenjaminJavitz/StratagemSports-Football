@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - LocationBox
   layers:
   - Default
   - TransparentFX
@@ -38,11 +39,14 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Field
+    uniqueID: 2126292885
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Field
-    uniqueID: 2126292885
+  - name: Arrows
+    uniqueID: 2237647597
     locked: 0
   - name: Players
     uniqueID: 1337598261
